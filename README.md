@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Abu Saleh Faysal</h1>
 <h3 align="center">Web Developer at Dikkha Online Limited | Full Stack Developer | PHP(CodeIgniter) | JavaScript | Firebase | MongoDB | Express.js | React | Node.js | MERN Stack</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abusalehfaysal&label=Profile%20views&color=0e75b6&style=flat" alt="abusalehfaysal" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abusalehfaysal" alt="abusalehfaysal" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/abusalehfaysal" target="blank"><img src="https://img.shields.io/twitter/follow/abusalehfaysal?logo=twitter&style=for-the-badge" alt="abusalehfaysal" /></a> </p>
+
 - 🔭 I’m currently working on [Dikkha](http://dikkha.com/)
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js, Express.js, MongoDB**
+
+- 🤝 I’m looking for a **Full Time Job.**
 
 - 👨‍💻 All of my projects are available at [https://abusalehfaysal.github.io/](https://abusalehfaysal.github.io/)
 
 - 📝 I regularly write articles on [https://abusalehfaysal.medium.com/](https://abusalehfaysal.medium.com/)
 
-- 📫 How to reach me **asfaysal.bracu@gmail.com**
+- 📫 How to reach me **asfaysal.bracu@gmail.com, abusalehfaysal222@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hcp1uACWpqk9d9vk_tVuSgEA3QazFQWC/view?usp=sharing](https://drive.google.com/file/d/1hcp1uACWpqk9d9vk_tVuSgEA3QazFQWC/view?usp=sharing)
 
