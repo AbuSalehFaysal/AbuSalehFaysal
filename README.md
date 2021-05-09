@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/abusalehfaysal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/abusalehfaysal" height="30" width="40" /></a>
 <a href="https://twitter.com/AbuSalehFaysal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="abusalehfaysal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abu-saleh-faysal-87380811a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/in/abu-saleh-faysal-87380811a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abu-saleh-faysal-87380811a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/in/abu-saleh-faysal-87380811a" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/abusalehfaysal10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="https://www.facebook.com/abusalehfaysal10" height="30" width="40" /></a>
 <a href="https://medium.com/@abusalehfaysal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="@abusalehfaysal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/abusalehfaysal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" alt="https://www.hackerrank.com/abusalehfaysal" height="30" width="40" /></a>
