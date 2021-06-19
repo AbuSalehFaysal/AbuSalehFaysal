@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abu Saleh Faysal</h1>
-<h3 align="center">Web Developer at Dikkha Online Limited | Full Stack Developer | PHP(CodeIgniter) | JavaScript | Firebase | MongoDB | Express.js | React | Node.js | MERN Stack</h3>
+<h3 align="center">Software Engineer at AITrade | Full Stack Developer | JavaScript | Firebase | MongoDB | Express.js | React | Node.js | MERN Stack | PHP(CodeIgniter, Laravel)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abusalehfaysal&label=Profile%20views&color=0e75b6&style=flat" alt="abusalehfaysal" /> </p>
 
 
 
-- 🔭 I’m currently working on [Dikkha](http://dikkha.com/)
+- 🔭 I’m currently working on [AITrade](https://www.aitrade.ai/)
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js, Express.js, MongoDB**
-
-- 🤝 I’m looking for a **Full Time Job.**
 
 - 👨‍💻 All of my projects are available at [https://abusalehfaysal.github.io/](https://abusalehfaysal.github.io/)
 
