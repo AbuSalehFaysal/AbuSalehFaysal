@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [AITrade](https://www.aitrade.ai/)
+- 🔭 I’m currently working on [Dikkha](http://dikkha.com/)
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js, Express.js, MongoDB**
 
