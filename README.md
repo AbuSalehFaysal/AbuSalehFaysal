@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://abusalehfaysal.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="https://abusalehfaysal.github.io/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abu-saleh-faysal-87380811a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/in/abu-saleh-faysal-87380811a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abusalehfaysal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/in/abusalehfaysal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/AbuSalehFaysal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" alt="https://www.hackerrank.com/abusalehfaysal" height="30" width="40" /></a>
 <a href="https://medium.com/@abusalehfaysal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="@abusalehfaysal" height="30" width="40" /></a>
 <a href="https://dev.to/abusalehfaysal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/abusalehfaysal" height="30" width="40" /></a>
