@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abusalehfaysal&label=Profile%20views&color=0e75b6&style=flat" alt="abusalehfaysal" /> </p>
 
 
-- 🔭 I’m currently working on [NetsoftUK](http://netsoftuk.com/)
+- 🔭 I’m currently working at [NetsoftUK](http://netsoftuk.com/)
 
-- 🔭 I’m currently working on [Dikkha](http://dikkha.com/)
+- 🔭 I’m currently working at [Dikkha](http://dikkha.com/)
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js, Express.js, MongoDB**
 
