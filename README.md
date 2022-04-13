@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [Dikkha](http://dikkha.com/)
 
-- 🌱 I’m currently learning **JavaScript, React, Node.js, Express.js, MongoDB**
+- 🌱 I’m currently learning **JavaScript, React, Redux**
 
 - 👨‍💻 All of my projects are available at [https://abusalehfaysal.github.io/](https://abusalehfaysal.github.io/)
 
