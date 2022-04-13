@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abu Saleh Faysal</h1>
-<h3 align="center">Full Stack Developer | JavaScript | Firebase | MongoDB | Express.js | React | Node.js | MERN Stack | PHP(CodeIgniter, Laravel)</h3>
+<h3 align="center">Front-End Developer at NETSOFTUK LIMITED | JavaScript | React | Redux | Firebase</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abusalehfaysal&label=Profile%20views&color=0e75b6&style=flat" alt="abusalehfaysal" /> </p>
 
