@@ -1,22 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abu Saleh Faysal</h1>
-<h3 align="center">Front-End Developer at NETSOFTUK LIMITED | JavaScript | React | Redux | Firebase</h3>
+<h3 align="center">Jr. Software Engineer at Onethread | JavaScript | TypeScript | React | Redux</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abusalehfaysal&label=Profile%20views&color=0e75b6&style=flat" alt="abusalehfaysal" /> </p>
 
 
-- 🔭 I’m currently working at [NetsoftUK](http://netsoftuk.com/)
-
-- 🔭 I’m currently working at [Dikkha](http://dikkha.com/)
+- 🔭 I’m currently working at [Onethread](https://www.onethread.app/)
 
 - 🌱 I’m currently learning **JavaScript, React, Redux**
 
 - 👨‍💻 All of my projects are available at [https://abusalehfaysal.github.io/](https://abusalehfaysal.github.io/)
 
-- 📝 I regularly write articles on [https://abusalehfaysal.medium.com/](https://abusalehfaysal.medium.com/)
+- 📝 I regularly write articles on [Dev](https://dev.to/abusalehfaysal)
 
-- 📫 How to reach me **asfaysal.bracu@gmail.com, abusalehfaysal222@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hcp1uACWpqk9d9vk_tVuSgEA3QazFQWC/view?usp=sharing](https://drive.google.com/file/d/1hcp1uACWpqk9d9vk_tVuSgEA3QazFQWC/view?usp=sharing)
+- 📫 How to reach me **abusalehfaysal222@gmail.com, asfaysal.bracu@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
