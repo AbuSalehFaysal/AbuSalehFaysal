@@ -16,6 +16,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- 📝 [HackerRank — Problem Solving — JavaScript — Solve Me First](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-solve-me-firsteasy-1chf)
+
+- 📝 [HackerRank — Problem Solving — JavaScript — Simple Array Sum](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-simple-array-sum-4g7p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
