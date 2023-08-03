@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abusalehfaysal&label=Profile%20views&color=0e75b6&style=flat" alt="abusalehfaysal" /> </p>
 
 
-- 🔭 I’m currently working at [Onethread](https://www.onethread.app/)
+- 🔭 I’m currently working at [MyAlice](https://www.myalice.ai/)
 
 - 🌱 I’m currently learning **JavaScript, React, Redux**
 
