@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abu Saleh Faysal</h1>
-<h3 align="center">Software Engineer | Front-End Developer | JavaScript | TypeScript | React | Redux</h3>
+<h3 align="center">Software Engineer | Passionate about Front-End Technologies: JavaScript, TypeScript, React, Redux, Next.js | Crafting and Delivering Cutting-Edge Web Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abusalehfaysal&label=Profile%20views&color=0e75b6&style=flat" alt="abusalehfaysal" /> </p>
 <a href="https://app.daily.dev/abusalehfaysal"><img src="https://api.daily.dev/devcards/8c8680e299eb469db3f1a742f7106d61.png?r=rl5" width="400" alt="Abu Saleh Faysal's Dev Card"/></a>
