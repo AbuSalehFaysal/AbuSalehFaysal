@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abusalehfaysal&label=Profile%20views&color=0e75b6&style=flat" alt="abusalehfaysal" /> </p>
 <a href="https://app.daily.dev/abusalehfaysal"><img src="https://api.daily.dev/devcards/8c8680e299eb469db3f1a742f7106d61.png?r=rl5" width="400" alt="Abu Saleh Faysal's Dev Card"/></a>
 
-- 🔭 I’m currently working at [MyAlice](https://www.myalice.ai/)
-
-- 🌱 I’m currently learning **JavaScript, React, Redux**
+- 🌱 I’m currently learning **Three.js, Technical Product Management**
 
 - 👨‍💻 All of my projects are available at [https://abusalehfaysal.github.io/](https://abusalehfaysal.github.io/)
 
